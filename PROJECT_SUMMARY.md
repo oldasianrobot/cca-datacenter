@@ -1,4 +1,5 @@
 # The Data Center Next Door
+
 ## Project Summary and Development Process
 
 **Educational context:** This is an educational simulation for the **Critical Studies Program at the California College of the Arts**, developed for the **Social Problems course, Fall 2026**.

@@ -4,8 +4,6 @@ A fictional eleven-decision classroom simulation, with a locally drawn pixel-art
 
 ## Preview
 
-Use the existing local server at http://localhost:8000. If it is stopped, run `python3 -m http.server 8000` in this folder. Use a local server (rather than double-clicking the HTML) so the browser can load the audio recording.
-
 Entering the town unlocks audio automatically. Cooling and its hum begin in Year 2; Years 0 and 1 are silent. Choose **Sound on** to mute at any time. The recording is peak-normalized in memory, with a compressor controlling peaks; the original MP3 is unchanged. The default volume is 70%. The recording loops and gradually increases in gain through Year 10, relative to the volume slider. Mute and motion controls are always available. Audio fades out at the ending and when the tab is hidden. Restart resets construction and audio.
 
 One massive data center is constructed in Year 1 and operates from Year 2 onward with the same footprint. Over ten years, the surrounding town shows rising electricity costs, water restrictions, pollution concerns and later fictional creek findings, housing pressure, and displacement. A cumulative observations panel keeps these burdens visible. Animations include construction cranes in Year 1, cooling fans, water, residents, and moving trucks later. Reduced-motion preferences are respected.
